@@ -1,0 +1,8 @@
+ubah di widget test dengan sesuai nama class di main app jika diganti
+untuk membuat di tengah tinggal wrap widget dengan center
+agar tidak banyak codingan gunakan main axisalignment
+ubah ke statefulwidget agar bisa responsive bisa di klik
+gunakan gesture detector ontap setstete agar saat di klik bisas responsive berubah warna
+gunakan ternary utk percabangan 
+gunakan main axisalignment untuk merapikan
+gunakan textbutton untuk membuat widget yang bisa di klik
